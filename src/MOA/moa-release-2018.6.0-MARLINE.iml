@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/arpack_combined_all-0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/autoencoder-0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bmad-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/bounce-0.18.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/classworlds-1.1-alpha-2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-math3-3.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/core-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/doxia-sink-api-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ejml-0.22.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jama-1.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/java-cup-11b-2015.03.26.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/java-cup-11b-runtime-2015.03.26.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jclasslocator-0.0.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jclipboardhelper-0.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcommon-1.0.16.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jfilechooser-bookmarks-0.1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jfreechart-1.0.13.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jide-oss-3.6.18.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jniloader-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/markdownj-core-0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-artifact-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-artifact-manager-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-model-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-plugin-api-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-plugin-registry-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-profile-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-project-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-reporting-api-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-repository-metadata-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/maven-settings-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/meka-1.9.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/moa.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/mtj-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/multisearch-weka-package-2017.10.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/native_ref-java-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/native_system-java-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-java-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-native_ref-linux-i686-1.1-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-native_ref-linux-x86_64-1.1-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-native_ref-osx-x86_64-1.1-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-native_ref-win-i686-1.1-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/netlib-native_ref-win-x86_64-1.1-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/plexus-utils-3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-3.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/scala-library-2.10.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/scala-swing-2.10.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/scalatest-maven-plugin-1.0-M2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/sizeofag-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/trove4j-3.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/wagon-provider-api-1.0-beta-2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/weka-dev-3.9.2.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/examples" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="arpack_combined_all-0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/arpack_combined_all-0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="autoencoder-0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/autoencoder-0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bmad-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bmad-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bounce-0.18.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/bounce-0.18.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="classworlds-1.1-alpha-2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/classworlds-1.1-alpha-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3-3.6.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-math3-3.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/core-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="doxia-sink-api-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/doxia-sink-api-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ejml-0.22.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ejml-0.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jama-1.0.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jama-1.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-cup-11b-2015.03.26.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/java-cup-11b-2015.03.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-cup-11b-runtime-2015.03.26.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/java-cup-11b-runtime-2015.03.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jclasslocator-0.0.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jclasslocator-0.0.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jclipboardhelper-0.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jclipboardhelper-0.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.16.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcommon-1.0.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfilechooser-bookmarks-0.1.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jfilechooser-bookmarks-0.1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.13.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jfreechart-1.0.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jide-oss-3.6.18.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jide-oss-3.6.18.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jniloader-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jniloader-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="markdownj-core-0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/markdownj-core-0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-artifact-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-artifact-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-artifact-manager-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-artifact-manager-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-model-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-model-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-api-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-plugin-api-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-plugin-registry-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-plugin-registry-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-profile-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-profile-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-project-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-project-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-reporting-api-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-reporting-api-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-repository-metadata-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-repository-metadata-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-settings-2.0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/maven-settings-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="meka-1.9.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/meka-1.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="moa.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/moa.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/moa-2018.6.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mtj-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mtj-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="multisearch-weka-package-2017.10.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/multisearch-weka-package-2017.10.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="native_ref-java-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/native_ref-java-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="native_system-java-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/native_system-java-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-java-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-java-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-native_ref-linux-i686-1.1-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-native_ref-linux-i686-1.1-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-native_ref-linux-x86_64-1.1-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-native_ref-linux-x86_64-1.1-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-native_ref-osx-x86_64-1.1-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-native_ref-osx-x86_64-1.1-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-native_ref-win-i686-1.1-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-native_ref-win-i686-1.1-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netlib-native_ref-win-x86_64-1.1-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/netlib-native_ref-win-x86_64-1.1-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-container-default-1.0-alpha-9-stable-1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/plexus-container-default-1.0-alpha-9-stable-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils-3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/plexus-utils-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.17.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="scala-library-2.10.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/scala-library-2.10.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="scala-swing-2.10.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/scala-swing-2.10.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="scalatest-maven-plugin-1.0-M2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/scalatest-maven-plugin-1.0-M2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sizeofag-1.0.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/sizeofag-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="trove4j-3.0.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/trove4j-3.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wagon-provider-api-1.0-beta-2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/wagon-provider-api-1.0-beta-2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="weka-dev-3.9.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/weka-dev-3.9.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>
