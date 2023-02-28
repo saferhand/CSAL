@@ -1,2 +1,2 @@
-# CSAL
-Dear editors and reviewers, here are all the source code and data sets used for review.
+# CSAL: Cost Sensitive Active Learning for Multi-Source Drifting Stream
+Dear editors and reviewers, here are all the source code and datasets used for review.
